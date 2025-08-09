@@ -24,9 +24,9 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 
 ---
 
-## National Geographic (Japan)
+## TLG GROUP
 **Link:** https://tlg.co.jp/ 
-**About:** Japanese edition of National Geographic with localized articles and media.
+**About:** Japanese company that operates finance media (FX/crypto), publishes expert interviews, and hosts financial education seminars.
 
 <table>
   <tr>
