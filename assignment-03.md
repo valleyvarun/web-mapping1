@@ -25,7 +25,7 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 ---
 
 ## National Geographic (Japan)
-**Link:** https://www.nationalgeographic.co.jp/  
+**Link:** https://tlg.co.jp/ 
 **About:** Japanese edition of National Geographic with localized articles and media.
 
 <table>
@@ -42,18 +42,18 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 
 ---
 
-## Bhutan (choose one: Tourism / Govt / News)
-**Link:** https://www.bhutan.travel/ *(or)* https://www.gov.bt/ *(or)* https://kuenselonline.com/  
-**About:** Official national portal (tourism/government/news) with Bhutan-focused content and services.
+## Bhutan Immigration
+**Link:** https://immi.gov.bt  
+**About:** Official portal of Bhutan's Department of Immigration for visas and immigration services.
 
 <table>
   <tr>
     <td style="vertical-align:top; width:66%;">
-      <img src="images/bhutan_map.png" alt="Bhutan site server locations map" width="100%">
+  <img src="images/bhutan_map.png" alt="Bhutan Immigration server locations map" width="100%">
     </td>
     <td style="vertical-align:top; width:34%;">
-      <img src="images/bhutan_streetview.jpg" alt="Bhutan server street view" width="100%"><br>
-      <img src="images/bhutan_site.png" alt="Bhutan website screenshot" width="100%">
+  <img src="images/bhutan_streetview.jpg" alt="Bhutan Immigration server street view" width="100%"><br>
+  <img src="images/bhutan_site.png" alt="Bhutan Immigration website screenshot" width="100%">
     </td>
   </tr>
 </table>
