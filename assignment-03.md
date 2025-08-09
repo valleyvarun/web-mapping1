@@ -59,12 +59,24 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 
 <table>
   <tr>
-    <td style="vertical-align:top; width:66%;">
-  <img src="screenshots/natgeo_jp_map.png" alt="NatGeo Japan server locations map" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/tlg1.png" alt="TLG screenshot 1" width="100%">
     </td>
-    <td style="vertical-align:top; width:34%;">
-  <img src="screenshots/natgeo_jp_streetview.jpg" alt="NatGeo Japan server street view" width="100%"><br>
-  <img src="screenshots/natgeo_jp_site.png" alt="NatGeo Japan website screenshot" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/tlg2.png" alt="TLG screenshot 2" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/tlg3.png" alt="TLG screenshot 3" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/tlg4.png" alt="TLG screenshot 4" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;" colspan="2">
+      <img src="screenshots/tlg5.png" alt="TLG screenshot 5" width="100%">
     </td>
   </tr>
 </table>
