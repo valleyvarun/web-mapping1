@@ -10,14 +10,35 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 
 <table>
   <tr>
-    <td style="vertical-align:top; width:66%;">
-      <!-- Large map image -->
-      <img src="images/natgeo_map.png" alt="NatGeo server locations map" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map1.png" alt="NatGeo map 1" width="100%">
     </td>
-    <td style="vertical-align:top; width:34%;">
-      <!-- Two supporting images stacked -->
-      <img src="images/natgeo_streetview.jpg" alt="NatGeo server street view" width="100%"><br>
-      <img src="images/natgeo_site.png" alt="NatGeo website screenshot" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map2.png" alt="NatGeo map 2" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map3.png" alt="NatGeo map 3" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map4.png" alt="NatGeo map 4" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map5.png" alt="NatGeo map 5" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map6.png" alt="NatGeo map 6" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map7.png" alt="NatGeo map 7" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="images/natgeo_map8.png" alt="NatGeo map 8" width="100%">
     </td>
   </tr>
 </table>
