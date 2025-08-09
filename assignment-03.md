@@ -11,34 +11,34 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 <table>
   <tr>
     <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map1.png" alt="NatGeo map 1" width="100%">
+  <img src="screenshots/natgeo_map1.png" alt="NatGeo map 1" width="100%">
     </td>
     <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map2.png" alt="NatGeo map 2" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map3.png" alt="NatGeo map 3" width="100%">
-    </td>
-    <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map4.png" alt="NatGeo map 4" width="100%">
+  <img src="screenshots/natgeo_map2.png" alt="NatGeo map 2" width="100%">
     </td>
   </tr>
   <tr>
     <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map5.png" alt="NatGeo map 5" width="100%">
+  <img src="screenshots/natgeo_map3.png" alt="NatGeo map 3" width="100%">
     </td>
     <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map6.png" alt="NatGeo map 6" width="100%">
+  <img src="screenshots/natgeo_map4.png" alt="NatGeo map 4" width="100%">
     </td>
   </tr>
   <tr>
     <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map7.png" alt="NatGeo map 7" width="100%">
+  <img src="screenshots/natgeo_map5.png" alt="NatGeo map 5" width="100%">
     </td>
     <td style="vertical-align:top; width:50%;">
-      <img src="images/natgeo_map8.png" alt="NatGeo map 8" width="100%">
+  <img src="screenshots/natgeo_map6.png" alt="NatGeo map 6" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+  <img src="screenshots/natgeo_map7.png" alt="NatGeo map 7" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+  <img src="screenshots/natgeo_map8.png" alt="NatGeo map 8" width="100%">
     </td>
   </tr>
 </table>
@@ -52,11 +52,11 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 <table>
   <tr>
     <td style="vertical-align:top; width:66%;">
-      <img src="images/natgeo_jp_map.png" alt="NatGeo Japan server locations map" width="100%">
+  <img src="screenshots/natgeo_jp_map.png" alt="NatGeo Japan server locations map" width="100%">
     </td>
     <td style="vertical-align:top; width:34%;">
-      <img src="images/natgeo_jp_streetview.jpg" alt="NatGeo Japan server street view" width="100%"><br>
-      <img src="images/natgeo_jp_site.png" alt="NatGeo Japan website screenshot" width="100%">
+  <img src="screenshots/natgeo_jp_streetview.jpg" alt="NatGeo Japan server street view" width="100%"><br>
+  <img src="screenshots/natgeo_jp_site.png" alt="NatGeo Japan website screenshot" width="100%">
     </td>
   </tr>
 </table>
@@ -70,11 +70,11 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 <table>
   <tr>
     <td style="vertical-align:top; width:66%;">
-  <img src="images/bhutan_map.png" alt="Bhutan Immigration server locations map" width="100%">
+  <img src="screenshots/bhutan_map.png" alt="Bhutan Immigration server locations map" width="100%">
     </td>
     <td style="vertical-align:top; width:34%;">
-  <img src="images/bhutan_streetview.jpg" alt="Bhutan Immigration server street view" width="100%"><br>
-  <img src="images/bhutan_site.png" alt="Bhutan Immigration website screenshot" width="100%">
+  <img src="screenshots/bhutan_streetview.jpg" alt="Bhutan Immigration server street view" width="100%"><br>
+  <img src="screenshots/bhutan_site.png" alt="Bhutan Immigration website screenshot" width="100%">
     </td>
   </tr>
 </table>
@@ -88,11 +88,11 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 <table>
   <tr>
     <td style="vertical-align:top; width:66%;">
-      <img src="images/igod_map.png" alt="iGOD server locations map" width="100%">
+  <img src="screenshots/igod_map.png" alt="iGOD server locations map" width="100%">
     </td>
     <td style="vertical-align:top; width:34%;">
-      <img src="images/igod_streetview.jpg" alt="iGOD server street view" width="100%"><br>
-      <img src="images/igod_site.png" alt="iGOD website screenshot" width="100%">
+  <img src="screenshots/igod_streetview.jpg" alt="iGOD server street view" width="100%"><br>
+  <img src="screenshots/igod_site.png" alt="iGOD website screenshot" width="100%">
     </td>
   </tr>
 </table>
