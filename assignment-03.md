@@ -114,12 +114,19 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 
 <table>
   <tr>
-    <td style="vertical-align:top; width:66%;">
-  <img src="screenshots/igod_map.png" alt="iGOD server locations map" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/igod1.png" alt="iGOD screenshot 1" width="100%">
     </td>
-    <td style="vertical-align:top; width:34%;">
-  <img src="screenshots/igod_streetview.jpg" alt="iGOD server street view" width="100%"><br>
-  <img src="screenshots/igod_site.png" alt="iGOD website screenshot" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/igod2.png" alt="iGOD screenshot 2" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/igod3.png" alt="iGOD screenshot 3" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/igod4.png" alt="iGOD screenshot 4" width="100%">
     </td>
   </tr>
 </table>
