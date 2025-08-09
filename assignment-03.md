@@ -41,6 +41,14 @@ Below are four websites I profiled. For each: a link, a one-line description, an
   <img src="screenshots/natgeo_map8.png" alt="NatGeo map 8" width="100%">
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/natgeo_map9.png" alt="NatGeo map 9" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/natgeo_map10.png" alt="NatGeo map 10" width="100%">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -69,12 +77,19 @@ Below are four websites I profiled. For each: a link, a one-line description, an
 
 <table>
   <tr>
-    <td style="vertical-align:top; width:66%;">
-  <img src="screenshots/bhutan_map.png" alt="Bhutan Immigration server locations map" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/bhutan1.png" alt="Bhutan screenshot 1" width="100%">
     </td>
-    <td style="vertical-align:top; width:34%;">
-  <img src="screenshots/bhutan_streetview.jpg" alt="Bhutan Immigration server street view" width="100%"><br>
-  <img src="screenshots/bhutan_site.png" alt="Bhutan Immigration website screenshot" width="100%">
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/bhutan2.png" alt="Bhutan screenshot 2" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/bhutan3.png" alt="Bhutan screenshot 3" width="100%">
+    </td>
+    <td style="vertical-align:top; width:50%;">
+      <img src="screenshots/bhutan4.jpg" alt="Bhutan screenshot 4" width="100%">
     </td>
   </tr>
 </table>
